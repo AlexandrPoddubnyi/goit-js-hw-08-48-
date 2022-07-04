@@ -18,6 +18,3 @@ const currentTimeInSeconds = JSON.parse(currentTime).seconds;
 // console.log(currentTimeInSeconds)
 
 player.setCurrentTime(currentTimeInSeconds);
-
-
-
