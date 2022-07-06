@@ -1,15 +1,15 @@
 {
-  "name": "goit-js-hw-08-48-",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://AlexandrPoddubnyi.github.io/goit-js-hw-08-48-",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "https://github.com/AlexandrPoddubnyi/goit-js-hw-08-48-"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08-48-/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexandrPoddubnyi/goit-js-hw-08-48-.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
